@@ -1,0 +1,11 @@
+{
+  "name": "PulseCare AI - Medical & Health Intelligence Platform",
+  "description": "Comprehensive health tracking, multimodal AI monitor scanner, lab report simplification, early risk detection, telehealth consultations, SOS emergency dispatch, and wellness community.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
